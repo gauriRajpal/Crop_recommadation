@@ -91,4 +91,3 @@ Yield prediction assumes average practices and may not account for pests, extrem
 
 -----------------------------------------------------------------------------------------------------------
 
-🔗 Live Demo: your-crop-app.streamlit.app
